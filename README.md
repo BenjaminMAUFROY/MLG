@@ -1,5 +1,7 @@
 # <center>Truc qui restent à faire pour le projet de MLG<center>
 
+<span style="color:red">Point d'attention</span>
+
 ## **Introduction**  
 
 ### Contexte de l’étude et objectifs

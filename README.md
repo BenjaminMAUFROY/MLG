@@ -1,6 +1,7 @@
 # <center>Truc qui restent à faire pour le projet de MLG<center>
 
-<span style="color:red">Point d'attention</span>
+* Point d'attention #RRRRRR
+* Point d'attention #RR
 
 ## **Introduction**  
 

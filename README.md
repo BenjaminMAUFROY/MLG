@@ -1,4 +1,4 @@
-# <center>**Truc qui restent à faire pour le projet de MLG**<center>
+# <center>__Truc qui restent à faire pour le projet de MLG__<center>
 
 
 * Fini et validé :green_square:

@@ -2,7 +2,7 @@
 
 
 * Fini et validé :green_square:
-* Fini mais à valider :violet_square:
+* Fini mais à valider :purple_square:
 * Point d'attention / à compléter :yellow_square:
 * En cours :orange_square:
 * Reste à faire :red_square:
@@ -11,7 +11,7 @@
 
 # Contexte de l’étude et objectifs :green_square:
 *Description : Intro du doc de la prof.*  
-# Organisation des répertoires  :violet_square:
+# Organisation des répertoires  :purple_square:
 *Description : Liste comment doivent être mis les documents de base (notebook et images) dans le répertoir pour le bon fonctionnement du code.*  
 # Librairies  :yellow_square:
 *Description : Liste des modules python utilisés classés par ordre alphabétique.*  
@@ -25,7 +25,7 @@
 ## Caractéristiques principales des images  :yellow_square:
 *Description : Présenter les principales caractéristiques des images : dates d'acquisition, résolution spatiale, bandes spectrales et dimensions.*  
 **Commentaire :** Est-ce qu'on ajoute quelques descriptifs en plus ? Dans le tableau ou en texte en plus ?  
-## Visualisation des images  :violet_square:
+## Visualisation des images  :purple_square:
 *Description : Produire des compositions colorées permettant de visualiser l'occupation du sol aux 2 dates.*
 ## Zonage autour des pièges  :yellow_square:
 *Description : Identifier les zones d'intérêt à proximité des pièges à moustiques.*

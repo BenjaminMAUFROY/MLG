@@ -1,7 +1,7 @@
 # <center>Truc qui restent à faire pour le projet de MLG<center>
 
 
-* Fini et validé #00FF11
+* Fini et validé "#00FF11"
 * Fini mais à valider #00D0FF
 * Point d'attention / à compléter #FFEE00
 * En cours #FF7B00

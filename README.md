@@ -29,14 +29,15 @@
 *Description : Produire des compositions colorées permettant de visualiser l'occupation du sol aux 2 dates.*
 ## Zonage autour des pièges  :yellow_square:
 *Description : Identifier les zones d'intérêt à proximité des pièges à moustiques.*
-**Commentaires :** Je suis partie sur un découpage des zones autour des pièges et on affiche un exemple de zone. Est-ce que tu l'interprètes pareil cette question ?  
+**Commentaires :** Je suis partie sur un découpage des zones autour des pièges et on affiche un exemple de zone. Est-ce que tu l'interprètes pareil cette question ? Pour justifier 1km (à mettre dans le texte) : https://pmc.ncbi.nlm.nih.gov/articles/PMC2554024/ Est-ce qu'on ajouterait pas une carte faite sur QGIS ?  
 
 
-# **Objectif 2 : Calcul et comparaison des indicateurs spectraux**  :red_square:
+# **Objectif 2 : Calcul et comparaison des indicateurs spectraux**  :orange_square:
 
-## Calcul des indices spectraux :red_square:
-*Description : Choix puis calcul des indices spectraux*  
-## Visualisation des indices spectraux :red_square:
+## Calcul des indices spectraux :yellow_square:
+*Description : Choix puis calcul des indices spectraux*
+**Commentaires :** J'ai checké un peu la littérature et il semblerait que pour les zones tropicales, on utilise presque exclusivement le NDVI, on peut garder le NDWI/NDVI parce que demandé et on peut le justifier, mais pas sûr qu'il y ait besoin d'en rajouter, peut-être un filtre ?  
+## Visualisation des indices spectraux :purple_square:
 *Description : Produire des cartes des indices sélectionnés aux deux dates.*  
 ## Variation des indices spectraux entre 2019 et 2024 :red_square:
 *Description : Calculer les différences entre les deux dates (par exemple, ΔNDVI) et Interpréter les changements en tenant compte des limites de ces indicateurs.*  

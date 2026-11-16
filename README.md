@@ -39,9 +39,10 @@
 
 ## Calcul des indices spectraux :yellow_square:
 *Description : Choix puis calcul des indices spectraux*
-**Commentaires :** J'ai checké un peu la littérature et il semblerait que pour les zones tropicales, on utilise presque exclusivement le NDVI, on peut garder le NDWI/NDVI parce que demandé et on peut le justifier, mais pas sûr qu'il y ait besoin d'en rajouter, peut-être un filtre ? Finalement j'ai aussi ajouté deux indicateurs : MCARI qui est très solide pour la végétation éparse et le NDTI, que je ne connaissais, qui caractérises les sols agricoles labourés (peut-être à retirer ou discuter selon les pratiques agricoles majoritaires à Mayotte et la saison (ici aout)). Les deux sont basés sur cet excellent article : https://www.mdpi.com/2072-4292/17/9/1551#article-metrics-citations. Reste la question d'un indicateur de texture.
-## Visualisation des indices spectraux :purple_square:
+**Commentaires :** J'ai checké un peu la littérature et il semblerait que pour les zones tropicales, on utilise presque exclusivement le NDVI, on peut garder le NDWI/NDVI parce que demandé et on peut ajouté deux indicateurs : MCARI qui est très solide pour la végétation éparse et le NDTI, que je ne connaissais, qui caractérises les sols agricoles labourés (peut-être à retirer ou discuter selon les pratiques agricoles majoritaires à Mayotte et la saison (ici aout)). Les deux sont basés sur cet excellent article : https://www.mdpi.com/2072-4292/17/9/1551#article-metrics-citations. Reste la question d'un indicateur de texture. Est-ce qu'on calcul ces indicateurs juste sur les imagettes ou aussi sur les images globales ?
+## Visualisation des indices spectraux :yellow_square:
 *Description : Produire des cartes des indices sélectionnés aux deux dates.*  
+**Commentaire :** Je vais peut-être faire une carte qgis, ce sera peut-être plus propre et ça permettra de jouer avec les couleurs.
 ## Variation des indices spectraux entre 2019 et 2024 :red_square:
 *Description : Calculer les différences entre les deux dates (par exemple, ΔNDVI) et Interpréter les changements en tenant compte des limites de ces indicateurs.*  
 

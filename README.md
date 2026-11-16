@@ -11,6 +11,9 @@
 
 # Contexte de l’étude et objectifs :green_square:
 *Description : Intro du doc de la prof.*  
+# Bibliographie :yellow_square:
+*Description : Liste des références bibliographiques utilisées*
+**Commentaire :** À remettre au propre à la fin  
 # Organisation des répertoires  :purple_square:
 *Description : Liste comment doivent être mis les documents de base (notebook et images) dans le répertoir pour le bon fonctionnement du code.*  
 # Librairies  :yellow_square:
@@ -36,7 +39,7 @@
 
 ## Calcul des indices spectraux :yellow_square:
 *Description : Choix puis calcul des indices spectraux*
-**Commentaires :** J'ai checké un peu la littérature et il semblerait que pour les zones tropicales, on utilise presque exclusivement le NDVI, on peut garder le NDWI/NDVI parce que demandé et on peut le justifier, mais pas sûr qu'il y ait besoin d'en rajouter, peut-être un filtre ?  
+**Commentaires :** J'ai checké un peu la littérature et il semblerait que pour les zones tropicales, on utilise presque exclusivement le NDVI, on peut garder le NDWI/NDVI parce que demandé et on peut le justifier, mais pas sûr qu'il y ait besoin d'en rajouter, peut-être un filtre ? Finalement j'ai aussi ajouté deux indicateurs : MCARI qui est très solide pour la végétation éparse et le NDTI, que je ne connaissais, qui caractérises les sols agricoles labourés (peut-être à retirer ou discuter selon les pratiques agricoles majoritaires à Mayotte et la saison (ici aout)). Les deux sont basés sur cet excellent article : https://www.mdpi.com/2072-4292/17/9/1551#article-metrics-citations. Reste la question d'un indicateur de texture.
 ## Visualisation des indices spectraux :purple_square:
 *Description : Produire des cartes des indices sélectionnés aux deux dates.*  
 ## Variation des indices spectraux entre 2019 et 2024 :red_square:

@@ -44,11 +44,12 @@
 **Commentaire :** Je vais peut-être faire une carte qgis, ce sera peut-être plus propre et ça permettra de jouer avec les couleurs.
 ## Variation des indices spectraux entre 2019 et 2024 :orange_square:
 *Description : Calculer les différences entre les deux dates (par exemple, ΔNDVI) et Interpréter les changements en tenant compte des limites de ces indicateurs.*  
+**Commentaires :** Les indicateurs, c'est pas la joie. Les résultats des moyennes m'ont l'air plutôt daubées vu qu'on a 50% de terre et 50% de mer. A voir si on reserre encore la taille de la zone. On peut faire ça rapidement avec QGIS, et ça me semble tout à fait justifiable.
 
 
-# **Objectif 3 : Classification de l'occupation du sol**  :red_square:
+# **Objectif 3 : Classification de l'occupation du sol**  :orange_square:
 
-## Choix des classes et de la méthode de classification :red_square:
+## Choix des classes et de la méthode de classification :orange_square:
 *Description : Définir une nomenclature de classes pertinente : végétation, bâti, sols nus, eau, etc et Présenter et justifier la méthode de classification retenue.*  
 ## Visualisation des résultats de la classification :red_square:
 *Description : Produire une carte d’occupation du sol supervisée pour 2019 et 2024 avec une nomenclature identique.*  

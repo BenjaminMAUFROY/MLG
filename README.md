@@ -13,7 +13,6 @@
 *Description : Intro du doc de la prof.*  
 # Bibliographie :yellow_square:
 *Description : Liste des références bibliographiques utilisées*
-**Commentaire :** À remettre au propre à la fin  
 # Organisation des répertoires  :purple_square:
 *Description : Liste comment doivent être mis les documents de base (notebook et images) dans le répertoir pour le bon fonctionnement du code.*  
 # Librairies  :yellow_square:
@@ -43,7 +42,7 @@
 ## Visualisation des indices spectraux :yellow_square:
 *Description : Produire des cartes des indices sélectionnés aux deux dates.*  
 **Commentaire :** Je vais peut-être faire une carte qgis, ce sera peut-être plus propre et ça permettra de jouer avec les couleurs.
-## Variation des indices spectraux entre 2019 et 2024 :red_square:
+## Variation des indices spectraux entre 2019 et 2024 :orange_square:
 *Description : Calculer les différences entre les deux dates (par exemple, ΔNDVI) et Interpréter les changements en tenant compte des limites de ces indicateurs.*  
 
 

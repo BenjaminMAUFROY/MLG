@@ -51,6 +51,8 @@
 
 ## Classification de l'occupation du sol :orange_square:
 *Description : Définir une nomenclature de classes pertinente : végétation, bâti, sols nus, eau, etc et Présenter et justifier la méthode de classification retenue.*  
+**Commentaire :** Est-ce qu'on justifie aussi avec les classes qui peuvent contenir les moustiques, mais peut-être pas pertinent parce qu'on veut caractériser l'environnement pour définir ce qui attire les moustiques et pas l'inverse. Comment on justifie les classes du coup, juste à l'oeil, à partir des indices spectraux, de la biblio ?  
+Pour le choix du modèle de classif, je suis chaud pour qu'on parte sur du non supervisé par pur flemme puis on avise en fonction des résultats. Dans la biblio ils utilisent les deux avec principalement RF, SVM et un peu de Kmean. Deep learning, c'est toujours sympa mais ça peut vite être très laborieux pour des résultats pas drastiquement meilleurs. A rediscuter demain.
 ## Visualisation des résultats de la classification :red_square:
 *Description : Produire une carte d’occupation du sol supervisée pour 2019 et 2024 avec une nomenclature identique.*  
 ## Évaluation de la qualité de la classification :red_square:

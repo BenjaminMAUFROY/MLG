@@ -33,7 +33,6 @@
 *Description : Identifier les zones d'intérêt à proximité des pièges à moustiques.*
 **Commentaires :** Je suis partie sur un découpage des zones autour des pièges et on affiche un exemple de zone. Est-ce que tu l'interprètes pareil cette question ? Pour justifier 1km (à mettre dans le texte) : https://pmc.ncbi.nlm.nih.gov/articles/PMC2554024/ (revoir l'écriture de la biblio) Est-ce qu'on ajouterait pas une carte faite sur QGIS ?  
 
-
 # **Objectif 2 : Calcul et comparaison des indicateurs spectraux**  :orange_square:
 
 ## Calcul des indices spectraux :yellow_square:
